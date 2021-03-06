@@ -87,7 +87,7 @@ de acesso à informação.
 | `Dados da apreensão` | Texto | Descrição dos animais e/ou materiais apreendidos |
 | `Tipo penal` | Texto | Descrição dos artigos da legislação ambiental e/ou penal infringidos |
 
-#### ⬇️ **Downloads** ⬇️
+#### ⬇️ Downloads ⬇️
 
 **Dica:** Clique com o botão direito do mouse sobre o link e escolha a opção
 `Salvar link como...` (ou equivalente) para salvar o arquivo no seu computador.
@@ -137,7 +137,7 @@ Estes arquivos contém as despesas agregadas por nome do fornecedor no período 
 | `estabelecimento` | Texto | Nome do fornecedor |
 | `total gasto` | Decimal | Total de despesas com o fornecedor (em reais) |
 
-#### ⬇️ **Downloads** ⬇️
+#### ⬇️ Downloads ⬇️
 
 **Dica:** Clique com o botão direito do mouse sobre o link e escolha a opção
 `Salvar link como...` (ou equivalente) para salvar o arquivo no seu computador.
