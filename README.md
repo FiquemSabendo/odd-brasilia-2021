@@ -7,20 +7,20 @@ Este repositório contém bases de dados públicos liberadas pela [Fiquem Sabend
 Conteúdos da documentação:
 
 - [Open Data Day Brasília - 2021](#open-data-day-brasília---2021)
-  - [As bases de dados](#as-bases-de-dados)
-    - [Base de dados de animais silvestres](#base-de-dados-de-animais-silvestres)
-      - [Colunas](#colunas)
-      - [⬇️ Downloads ⬇️](#️-downloads-️)
-    - [Base de gastos de ex-presidentes](#base-de-gastos-de-ex-presidentes)
-      - [Colunas](#colunas-1)
-        - [Arquivos `*_alimentacao.csv`, `*_hospedagem.csv` e `*_transporte.csv`](#arquivos-_alimentacaocsv-_hospedagemcsv-e-_transportecsv)
-        - [Arquivos `*estabelecimentos.csv`](#arquivos-estabelecimentoscsv)
-      - [⬇️ Downloads ⬇️](#️-downloads-️-1)
+  - [Estrutura do repositório](#estrutura-do-repositório)
+  - [Base de dados de animais silvestres](#base-de-dados-de-animais-silvestres)
+    - [Colunas](#colunas)
+    - [⬇️ Downloads ⬇️](#️-downloads-️)
+  - [Base de gastos de ex-presidentes](#base-de-gastos-de-ex-presidentes)
+    - [Colunas](#colunas-1)
+      - [Arquivos `*_alimentacao.csv`, `*_hospedagem.csv` e `*_transporte.csv`](#arquivos-_alimentacaocsv-_hospedagemcsv-e-_transportecsv)
+      - [Arquivos `*estabelecimentos.csv`](#arquivos-estabelecimentoscsv)
+    - [⬇️ Downloads ⬇️](#️-downloads-️-1)
   - [Formato dos arquivos `.csv`](#formato-dos-arquivos-csv)
   - [Contato e dúvidas](#contato-e-dúvidas)
   - [Licença](#licença)
 
-## As bases de dados
+## Estrutura do repositório
 
 Este repositório contém duas bases de dados liberadas pela Fiquem Sabendo com base na Lei de Acesso à Informação: a base de **apreensões de animais silvestres** e as bases de **gastos de ex-presidentes com alimentação e hospedagem**.
 
@@ -68,7 +68,7 @@ $ git clone https://github.com/FiquemSabendo/odd-brasilia-2021.git
 
 Alternativamente, veja as seções abaixo para fazer download dos arquivos individuais.
 
-### Base de dados de animais silvestres
+## Base de dados de animais silvestres
 
 Esta base de dados contém informações sobre as ocorrências relacionadas ao 
 tráfico de animais silvestres registradas pelo Departamento de Polícia Federal
@@ -77,7 +77,7 @@ de acesso à informação.
 
 [lai-animais]: http://www.consultaesic.cgu.gov.br/busca/_layouts/15/DetalhePedido/DetalhePedido.aspx?nup=08198033422202065
 
-#### Colunas
+### Colunas
 
 | Nome da coluna | Tipo | Descrição |
 | ------ | ------ | ------ |
@@ -87,7 +87,7 @@ de acesso à informação.
 | `Dados da apreensão` | Texto | Descrição dos animais e/ou materiais apreendidos |
 | `Tipo penal` | Texto | Descrição dos artigos da legislação ambiental e/ou penal infringidos |
 
-#### ⬇️ Downloads ⬇️
+### ⬇️ Downloads ⬇️
 
 **Dica:** Clique com o botão direito do mouse sobre o link e escolha a opção
 `Salvar link como...` (ou equivalente) para salvar o arquivo no seu computador.
@@ -95,7 +95,7 @@ de acesso à informação.
 - [[XLSX]](https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/blob/main/data/animais_silvestres/2020-2015_apreensoes_animais_silvestres.xlsx)
 - [[CSV]](https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/animais_silvestres/2020-2015_apreensoes_animais_silvestres.csv)
 
-### Base de gastos de ex-presidentes
+## Base de gastos de ex-presidentes
 
 Esta base de dados contém informação sobre os gastos das equipes dos Presidentes da República que deixaram o cargo desde 2003 com alimentação, hospedagem e transporte\*, durante o período em que estes exerceram os respectivos mandatos.
 
@@ -108,9 +108,9 @@ que acompanham os dados na pasta [`/data/gastos_expresidentes`](./data/gastos_ex
 
 **Observação:** As planilhas relativas ao governo Temer (2016-2018) incluem o período em que a presidente Dilma Rousseff se encontrava afastada, respondendo a processo de impeachment. Entre o dia 12 de março de 2016 e o afastamento definitivo, em 31 de agosto de 2016, essas planilhas contém dados tanto da presidente afastada quanto do presidente em exercício no período.
 
-#### Colunas
+### Colunas
 
-##### Arquivos `*_alimentacao.csv`, `*_hospedagem.csv` e `*_transporte.csv`
+#### Arquivos `*_alimentacao.csv`, `*_hospedagem.csv` e `*_transporte.csv`
 
 | Nome da coluna | Tipo | Descrição |
 | ------ | ------ | ------ |
@@ -128,7 +128,7 @@ que acompanham os dados na pasta [`/data/gastos_expresidentes`](./data/gastos_ex
 | `DAT_FIM` | Data(`DD/MM/AAAA` ou ``DD-mês-AAAA``) | Data de término da viagem |
 | `DSC_OBJETO_EVENTO` | Texto | Descrição da finalidade da viagem |
 
-##### Arquivos `*estabelecimentos.csv`
+#### Arquivos `*estabelecimentos.csv`
 
 Estes arquivos contém as despesas agregadas por nome do fornecedor no período de referência. 
 
@@ -137,7 +137,7 @@ Estes arquivos contém as despesas agregadas por nome do fornecedor no período 
 | `estabelecimento` | Texto | Nome do fornecedor |
 | `total gasto` | Decimal | Total de despesas com o fornecedor (em reais) |
 
-#### ⬇️ Downloads ⬇️
+### ⬇️ Downloads ⬇️
 
 **Dica:** Clique com o botão direito do mouse sobre o link e escolha a opção
 `Salvar link como...` (ou equivalente) para salvar o arquivo no seu computador.
