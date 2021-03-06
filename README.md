@@ -92,13 +92,13 @@ do diretório com as bases de dados é a seguinte (*veja os links
 
 [dilma-2-hosp-csv]: https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/gastos_expresidentes/csv/2016-2015_Dilma_hospedagem.csv
 
-[temer-alim-xlsx]: https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/gastos_expresidentes/xlsx/2018-2016_ Temer_alimentacao.xlsx
+[temer-alim-xlsx]: https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/gastos_expresidentes/xlsx/2018-2016_Temer_alimentacao.xlsx
 
-[temer-alim-csv]: https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/gastos_expresidentes/csv/2018-2016_ Temer_alimentacao.csv
+[temer-alim-csv]: https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/gastos_expresidentes/csv/2018-2016_Temer_alimentacao.csv
 
-[temer-hosp-xlsx]: https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/gastos_expresidentes/xlsx/2018-2016_ Temer_hospedagem.xlsx
+[temer-hosp-xlsx]: https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/gastos_expresidentes/xlsx/2018-2016_Temer_hospedagem.xlsx
 
-[temer-hosp-csv]: https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/gastos_expresidentes/csv/2018-2016_ Temer_hospedagem.csv
+[temer-hosp-csv]: https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/gastos_expresidentes/csv/2018-2016_Temer_hospedagem.csv
 
 ## Formato dos arquivos `.csv`
 
