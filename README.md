@@ -46,7 +46,24 @@ do diretório com as bases de dados é a seguinte (*veja os links
 
 ### Base de dados de animais silvestres
 
-⬇️ **Downloads** ⬇️
+Esta base de dados contém informações sobre as ocorrências relacionadas ao 
+tráfico de animais silvestres registradas pelo Departamento de Polícia Federal
+entre 2015 e outubro de 2020, conforme disponível [neste pedido][lai-animais]
+de acesso à informação.
+
+[lai-animais]: http://www.consultaesic.cgu.gov.br/busca/_layouts/15/DetalhePedido/DetalhePedido.aspx?nup=08198033422202065
+
+#### Colunas
+
+| Nome da coluna | Tipo | Descrição |
+| ------ | ------ | ------ |
+| UF | Texto | Sigla da Unidade da Federação da ocorrência |
+| Cidade | Texto | Nome do município da ocorrência |
+| Data | Data (`DD/MM/AAAA`) | Data de registro da ocorrência |
+| Dados da apreensão | Texto | Descrição dos animais e/ou materiais apreendidos |
+| Tipo penal | Texto | Descrição dos artigos da legislação ambiental e/ou penal infringidos |
+
+#### ⬇️ **Downloads** ⬇️
 
 Clique com o botão direito do mouse sobre o link e escolha a opção
 `Salvar link como...` (ou equivalente) para salvar o arquivo no seu computador.
@@ -56,7 +73,16 @@ Clique com o botão direito do mouse sobre o link e escolha a opção
 
 ### Base de gastos de ex-presidentes
 
-⬇️ **Downloads** ⬇️
+Esta base de dados contém informação sobre os gastos das equipes dos Presidentes da República que deixaram o cargo desde 2003 com alimentação, hospedagem e transporte\*, durante o período em que estes exerceram os respectivos mandatos.
+
+ Em todos os anos, as despesas se referem ao total gasto com todas as equipes que fizeram parte das comitivas do Presidente da República - por exemplo, equipes de segurança, equipes de imprensa e comunicações, cerimonial, assessores, de tecnologia da informação, etc. Ou seja, não se trata do gasto apenas com o Presidente da República.
+
+Para mais detalhes sobre as limitações dos dados, leia as notas técnicas 
+que acompanham os dados na pasta [`/data/gastos_expresidentes`](./data/gastos_expresidentes).
+
+\* Os dados sobre gastos com transporte são fornecidos apenas para os anos 2003 a 2010.
+
+#### ⬇️ **Downloads** ⬇️
 
 Clique com o botão direito do mouse sobre o link e escolha a opção
 `Salvar link como...` (ou equivalente) para salvar o arquivo no seu computador.
