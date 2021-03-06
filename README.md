@@ -191,3 +191,21 @@ de três letras do mês em inglês).
 
 Se tiver qualquer dúvida, acompanhe a discussão do ODD Brasília 2021 no 
 [Discord da Open Knowledge Brasil](https://discord.gg/WpSsGW47).
+
+## Licença
+
+A Fiquem Sabendo é uma agência de dados independente e especializada na Lei de Acesso à Informação (LAI). Somos uma associação sem fins lucrativos, apartidária e independente.
+
+Todo o material publicado gratuitamente no nosso [site], [GitHub] ou na [newsletter *Don’t LAI to me*][newsletter], pode e deve ser compartilhado! Usamos a licença “[Atribuição 4.0 Internacional (CC BY 4.0)][CC-BY-4.0]“, que permite a republicação/adaptação, inclusive para fins comerciais, **nas seguintes condições**:
+
+1. Todas as republicações ou reportagens feitas a partir de dados/documentos liberados pela nossa equipe devem trazer o nome da Fiquem Sabendo no início do texto, com crédito para: “`Fiquem Sabendo, agência de dados especializada na Lei de Acesso à Informação (LAI)`”. 
+2. Toda republicação deve conter link para a publicação ou repositório original.
+3. As postagens no Twitter e outras redes sociais sobre as reportagens republicadas devem conter menção ao perfil [@_fiquemsabendo].
+
+Para mais informações: [contato@fiquemsabendo.com.br](mailto:contato@fiquemsabendo.com.br)
+
+[site]: https://fiquemsabendo.com.br/
+[GitHub]: https://github.com/FiquemSabendo/
+[newsletter]: https://fiquemsabendo.substack.com/
+[CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/
+[@_fiquemsabendo]: https://twitter.com/_fiquemsabendo
