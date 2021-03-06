@@ -48,12 +48,18 @@ do diretório com as bases de dados é a seguinte (*veja os links
 
 ⬇️ **Downloads** ⬇️
 
+Clique com o botão direito do mouse sobre o link e escolha a opção
+`Salvar link como...` (ou equivalente) para salvar o arquivo no seu computador.
+
 - [[XLSX]](https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/blob/main/data/animais_silvestres/2015_apreensoes_animais_silvestres.xlsx)
 - [[CSV]](https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/main/data/animais_silvestres/2015_apreensoes_animais_silvestres.csv)
 
 ### Base de gastos de ex-presidentes
 
 ⬇️ **Downloads** ⬇️
+
+Clique com o botão direito do mouse sobre o link e escolha a opção
+`Salvar link como...` (ou equivalente) para salvar o arquivo no seu computador.
 
 - Lula *(2003-2010)*:
   - Todos os gastos: [[XLSX]][lula-xlsx]
