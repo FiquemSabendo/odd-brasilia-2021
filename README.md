@@ -10,8 +10,7 @@ Este repositório contém duas bases de dados liberadas pela Fiquem Sabendo com 
 
 Ambas as bases são reproduzidas no diretório [`/data`][./data], nos formatos
 originalmente fornecido pelos órgãos (`.xlsx`) e no formato `.csv`. A estrutura
-do diretório com as bases de dados é a seguinte (*veja os links
-[abaixo](#base-de-dados-de-animais-silvestres) para download direto*):
+do diretório com as bases de dados é a seguinte:
 
 ```
 📦odd-brasilia-2021
@@ -44,6 +43,15 @@ do diretório com as bases de dados é a seguinte (*veja os links
  ┃ ┃ ┃ ┗ 📜2018-2016_Temer_hospedagem.xlsx
 ```
 
+Para realizar o download integral do repositório, execute o comando abaixo em
+um terminal de linha de comando:
+
+```
+$ git clone https://github.com/FiquemSabendo/odd-brasilia-2021.git
+```
+
+Alternativamente, veja as seções abaixo para fazer download dos arquivos individuais.
+
 ### Base de dados de animais silvestres
 
 Esta base de dados contém informações sobre as ocorrências relacionadas ao 
@@ -65,7 +73,7 @@ de acesso à informação.
 
 #### ⬇️ **Downloads** ⬇️
 
-Clique com o botão direito do mouse sobre o link e escolha a opção
+**Dica:** Clique com o botão direito do mouse sobre o link e escolha a opção
 `Salvar link como...` (ou equivalente) para salvar o arquivo no seu computador.
 
 - [[XLSX]](https://raw.githubusercontent.com/FiquemSabendo/odd-brasilia-2021/blob/main/data/animais_silvestres/2020-2015_apreensoes_animais_silvestres.xlsx)
@@ -115,7 +123,7 @@ Estes arquivos contém as despesas agregadas por nome do fornecedor no período 
 
 #### ⬇️ **Downloads** ⬇️
 
-Clique com o botão direito do mouse sobre o link e escolha a opção
+**Dica:** Clique com o botão direito do mouse sobre o link e escolha a opção
 `Salvar link como...` (ou equivalente) para salvar o arquivo no seu computador.
 
 - Lula *(2003-2010)*:
