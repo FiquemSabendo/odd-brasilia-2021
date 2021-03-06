@@ -57,11 +57,11 @@ de acesso à informação.
 
 | Nome da coluna | Tipo | Descrição |
 | ------ | ------ | ------ |
-| UF | Texto | Sigla da Unidade da Federação da ocorrência |
-| Cidade | Texto | Nome do município da ocorrência |
-| Data | Data (`DD/MM/AAAA`) | Data de registro da ocorrência |
-| Dados da apreensão | Texto | Descrição dos animais e/ou materiais apreendidos |
-| Tipo penal | Texto | Descrição dos artigos da legislação ambiental e/ou penal infringidos |
+| `UF` | Texto | Sigla da Unidade da Federação da ocorrência |
+| `Cidade` | Texto | Nome do município da ocorrência |
+| `Data` | Data (`DD/MM/AAAA`) | Data de registro da ocorrência |
+| `Dados da apreensão` | Texto | Descrição dos animais e/ou materiais apreendidos |
+| `Tipo penal` | Texto | Descrição dos artigos da legislação ambiental e/ou penal infringidos |
 
 #### ⬇️ **Downloads** ⬇️
 
