@@ -82,6 +82,8 @@ que acompanham os dados na pasta [`/data/gastos_expresidentes`](./data/gastos_ex
 
 \* Os dados sobre gastos com transporte são fornecidos apenas para os anos 2003 a 2010.
 
+**Observação:** As planilhas relativas ao governo Temer (2016-2018) incluem o período em que a presidente Dilma Rousseff se encontrava afastada, respondendo a processo de impeachment. Entre o dia 12 de março de 2016 e o afastamento definitivo, em 31 de agosto de 2016, essas planilhas contém dados tanto da presidente afastada quanto do presidente em exercício no período.
+
 #### Colunas
 
 ##### Arquivos `*_alimentacao.csv`, `*_hospedagem.csv` e `*_transporte.csv`
