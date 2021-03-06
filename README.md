@@ -82,6 +82,35 @@ que acompanham os dados na pasta [`/data/gastos_expresidentes`](./data/gastos_ex
 
 \* Os dados sobre gastos com transporte são fornecidos apenas para os anos 2003 a 2010.
 
+#### Colunas
+
+##### Arquivos `*_alimentacao.csv`, `*_hospedagem.csv` e `*_transporte.csv`
+
+| Nome da coluna | Tipo | Descrição |
+| ------ | ------ | ------ |
+| `NUM_CNPJ_CPF` | Texto | Número do CNPJ ou CPF do fornecedor |
+| `NOM_FORNECEDOR` ou `NOME DO _FORNECEDOR` | Texto | Nome do fornecedor |
+| `MUNICIPIO` | Texto | Nome do município do fornecedor |
+| `UF` | Texto | Sigla da Unidade da Federação do fornecedor |
+| `NUM_FISCAL` | Texto | Identificador da Nota Fiscal |
+| `DATA NOTA` ou `DAT_NOTA_FISCAL` | Data(`DD/MM/AAAA` ou ``DD-mês-AAAA``)  | Data realização da despesa |
+| `VALOR DO ITEM` ou `VLR_NOTA` | Decimal | Valor da despesa (em reais) |
+| `CATEGORIA` | Texto | Categoria da despesa |
+| `LOCAL VIAGEM` ou `LOCAL ` | Texto | Destino da viagem |
+| `UF LOCAL DA VIAGEM` | Texto | Sigla da Unidade da Federação do destino da viagem |
+| `DAT_INI` | Data(`DD/MM/AAAA` ou ``DD-mês-AAAA``) | Data de início da viagem |
+| `DAT_FIM` | Data(`DD/MM/AAAA` ou ``DD-mês-AAAA``) | Data de término da viagem |
+| `DSC_OBJETO_EVENTO` | Texto | Descrição da finalidade da viagem |
+
+##### Arquivos `*estabelecimentos.csv`
+
+Estes arquivos contém as despesas agregadas por nome do fornecedor no período de referência. 
+
+| Nome da coluna | Tipo | Descrição |
+| ------ | ------ | ------ |
+| `estabelecimento` | Texto | Nome do fornecedor |
+| `total gasto` | Decimal | Total de despesas com o fornecedor (em reais) |
+
 #### ⬇️ **Downloads** ⬇️
 
 Clique com o botão direito do mouse sobre o link e escolha a opção
