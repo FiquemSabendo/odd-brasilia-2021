@@ -4,6 +4,22 @@ Repositório de dados da Fiquem Sabendo no Open Data Day Brasília 2021
 
 Este repositório contém bases de dados públicos liberadas pela [Fiquem Sabendo](https://fiquemsabendo.com.br/), agência de dados independente e especializada na Lei de Acesso à Informação (LAI). As bases de dados foram disponibilizadas para as atividades do [Open Data Day Brasília 2021](https://www.sympla.com.br/open-data-day-brasilia__1142950), organizado pela [Open Knowledge Brasil](https://www.ok.org.br/) em parceria com a comunidade de dados abertos do Distrito Federal.
 
+Conteúdos da documentação:
+
+- [Open Data Day Brasília - 2021](#open-data-day-brasília---2021)
+  - [As bases de dados](#as-bases-de-dados)
+    - [Base de dados de animais silvestres](#base-de-dados-de-animais-silvestres)
+      - [Colunas](#colunas)
+      - [⬇️ **Downloads** ⬇️](#️-downloads-️)
+    - [Base de gastos de ex-presidentes](#base-de-gastos-de-ex-presidentes)
+      - [Colunas](#colunas-1)
+        - [Arquivos `*_alimentacao.csv`, `*_hospedagem.csv` e `*_transporte.csv`](#arquivos-_alimentacaocsv-_hospedagemcsv-e-_transportecsv)
+        - [Arquivos `*estabelecimentos.csv`](#arquivos-estabelecimentoscsv)
+      - [⬇️ **Downloads** ⬇️](#️-downloads-️-1)
+  - [Formato dos arquivos `.csv`](#formato-dos-arquivos-csv)
+  - [Contato e dúvidas](#contato-e-dúvidas)
+  - [Licença](#licença)
+
 ## As bases de dados
 
 Este repositório contém duas bases de dados liberadas pela Fiquem Sabendo com base na Lei de Acesso à Informação: a base de **apreensões de animais silvestres** e as bases de **gastos de ex-presidentes com alimentação e hospedagem**.
@@ -187,7 +203,7 @@ Quanto às datas, a maioria está no formato `DD/MM/AAAA`, embora alguns arquivo
 possam conter outros formatos, como `DD-mês-AAAA` (onde `mês` é a abreviatura
 de três letras do mês em inglês).
 
-## Contato
+## Contato e dúvidas
 
 Se tiver qualquer dúvida, acompanhe a discussão do ODD Brasília 2021 no 
 [Discord da Open Knowledge Brasil](https://discord.gg/WpSsGW47).
