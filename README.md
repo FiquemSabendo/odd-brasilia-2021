@@ -8,6 +8,7 @@ Conteúdos da documentação:
 
 - [Open Data Day Brasília - 2021](#open-data-day-brasília---2021)
   - [Estrutura do repositório](#estrutura-do-repositório)
+    - [⬇️ Download completo ⬇️](#️-download-completo-️)
   - [Base de dados de animais silvestres](#base-de-dados-de-animais-silvestres)
     - [Colunas](#colunas)
     - [⬇️ Downloads ⬇️](#️-downloads-️)
@@ -58,6 +59,8 @@ do diretório com as bases de dados é a seguinte:
  ┃ ┃ ┃ ┣ 📜2018-2016_ Temer_alimentacao.xlsx
  ┃ ┃ ┃ ┗ 📜2018-2016_Temer_hospedagem.xlsx
 ```
+
+### ⬇️ Download completo ⬇️
 
 Para realizar o download integral do repositório, execute o comando abaixo em
 um terminal de linha de comando:
